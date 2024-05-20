@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Creator, and Lifelong Learner!
 
-- 🔭 I’m currently working on NapFT
+- 🔭 I’m currently working with NapFT
 - 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on new tech projects
 - 💬 Ask me about HTML, CSS, Javascript, ReactJS, NodeJS, PHP, SQL, MongoDB 
