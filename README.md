@@ -1,30 +1,193 @@
-# Hi there, I'm Ahmad 👋
+<div align="center">
 
-## Developer, Creator, and Lifelong Learner!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=200&section=header&text=Ahmad%20Parizaad&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
-- 🔭 I’m currently working with [NapFT](https://www.napft.com)
-- 🌱 I’m currently learning NextJS
-- 👯 I’m looking to collaborate on new tech projects
-- 💬 Ask me about HTML, CSS, Javascript, ReactJS, NodeJS, PHP, SQL, MongoDB 
-- 📫 How to reach me: mohammadahmad7003@gmail.com
-- 😄 Pronouns: Ahmad Parizaad 
-- Languages and Tools:
+<h3>Full Stack Developer | Blockchain Enthusiast | Building the Future</h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFD700?style=for-the-badge&logo=ethereum&logoColor=black)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-7f7f7f?style=for-the-badge&logo=ethereum&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Blockchain+%26+Web3+Developer;NextJS+%26+React+Specialist;Open+Source+Contributor" alt="Typing SVG" />
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmadparizaad/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/ahmadparizaad">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:mohammadahmad7003@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/14E_RBXqd9N4t7HGAxLgPfknvtuKwoxGG/view">
+    <img src="https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=ahmadparizaad&color=00D9FF&style=flat-square&label=Profile+Views" />
+
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+```typescript
+const ahmad = {
+    location: "🌍 Working Remotely",
+    company: "NapFT",
+    role: "Full Stack Developer",
+    focus: ["Next.js", "React", "Blockchain", "Web3"],
+    openTo: ["Collaboration", "Freelance", "Open Source"],
+    passion: "Building innovative web experiences",
+    lifePhilosophy: "Code • Learn • Repeat"
+};
+```
+
+<br/>
+
+<details>
+<summary>📊 <b>More About Me (Click to expand)</b></summary>
+<br>
+
+- 🔭 Currently building innovative solutions at **[NapFT](https://www.napft.com)**
+- 🌱 Deep diving into **Next.js**, **Web3**, and **Smart Contracts**
+- 👯 Open to collaborating on cutting-edge tech projects
+- 💬 Ask me about **React**, **Next.js**, **Node.js**, **Blockchain**, **MongoDB**
+- ⚡ Fun fact: I turn ideas into reality through code!
+
+</details>
+
+<br/>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" alt="Frontend" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" alt="Backend" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase" alt="Database" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum,hardhat" alt="Blockchain" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/ethers/7f7f7f" alt="Ethers.js" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux,vercel,netlify" alt="Tools" />
+</p>
+
+</div>
+
+<br/>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmadparizaad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadparizaad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmadparizaad&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmadparizaad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmadparizaad&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117)
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadparizaad/ahmadparizaad/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadparizaad/ahmadparizaad/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmadparizaad/ahmadparizaad/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br/>
+
+## 💭 Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br/>
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Ahmad))
+    Web Development
+      Next.js
+      React
+      TypeScript
+    Blockchain
+      Solidity
+      Smart Contracts
+      Web3
+    Learning
+      System Design
+      Cloud Architecture
+      DevOps
+    Goals
+      Open Source
+      Tech Blogging
+      Community Building
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💼 Open for Opportunities
+
+I'm always interested in collaborating on innovative projects and exploring new opportunities.
+
+**Let's connect and build something amazing together!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=100&section=footer" />
+
+</div>
