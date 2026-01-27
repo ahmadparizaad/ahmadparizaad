@@ -76,7 +76,6 @@ const ahmad = {
 <p>
   <img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Blockchain" />
   <img height="48" width="48" src="https://cdn.simpleicons.org/ethereum/497493" alt="Ethereum" />
-  <img height="48" width="48" src="https://cdn.simpleicons.org/hardhat/497493" alt="Hardhat" />
   <img height="48" width="48" src="https://cdn.simpleicons.org/ethers/7f7f7f" alt="Ethers.js" />
 </p>
 
@@ -114,30 +113,6 @@ const ahmad = {
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ahmadparizaad&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ahmadparizaad&theme=default&hide_border=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadparizaad&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🏆 GitHub Achievements
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-trophy.vercel.app/?username=ahmadparizaad&theme=algolia&no-frame=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&margin-w=8&row=2&column=4&cache_seconds=86400"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-trophy.vercel.app/?username=ahmadparizaad&theme=flat&no-frame=true&margin-w=8&row=2&column=4&cache_seconds=86400"
-  />
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ahmadparizaad&theme=algolia&no-frame=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&margin-w=8&row=2&column=4&cache_seconds=86400"
-    alt="GitHub Trophies"
-  />
-
 </picture>
 
 </div>
