@@ -185,45 +185,6 @@ const ahmad = {
 
 <br/>
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-%%{init: {
-  "theme": "dark",
-  "themeVariables": {
-    "background": "#0D1117",
-    "primaryColor": "#94a3b8",
-    "secondaryColor": "#cbd5e1",
-    "tertiaryColor": "#e2e8f0",
-    "primaryBorderColor": "#00D9FF",
-    "lineColor": "#00D9FF"
-  }
-}}%%
-mindmap
-  root[Ahmad]
-    Web Development
-      Next.js
-      React
-      TypeScript
-    Blockchain
-      Solidity
-      Smart Contracts
-      Web3
-    Learning
-      System Design
-      Cloud Architecture
-      DevOps
-    Goals
-      Open Source
-      Tech Blogging
-      Community Building
-```
-
-</div>
-
-
 <br/>
 
 <div align="center">
