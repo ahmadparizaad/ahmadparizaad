@@ -8,16 +8,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmadparizaad/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" />
   </a>
   <a href="https://x.com/ahmadparizaad">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" />
   </a>
   <a href="mailto:mohammadahmad7003@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" />
   </a>
   <a href="https://drive.google.com/file/d/14E_RBXqd9N4t7HGAxLgPfknvtuKwoxGG/view">
-    <img src="https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/google-drive.png" />
   </a>
 </p>
 
@@ -80,7 +80,7 @@ const ahmad = {
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux,vercel,netlify&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,docker,postman,n8n,linux,vercel,netlify&theme=dark" alt="Tools" />
 </p>
 
 </div>
