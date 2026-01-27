@@ -190,8 +190,20 @@ const ahmad = {
 <div align="center">
 
 ```mermaid
+%%{init: {
+  "theme": "dark",
+  "themeVariables": {
+    "background": "#0D1117",
+    "primaryColor": "#1f2937",
+    "primaryTextColor": "#e5e7eb",
+    "primaryBorderColor": "#00D9FF",
+    "lineColor": "#00D9FF",
+    "secondaryColor": "#111827",
+    "tertiaryColor": "#020617"
+  }
+}}%%
 mindmap
-  root((Ahmad))
+  root[Ahmad]
     Web Development
       Next.js
       React
@@ -211,6 +223,7 @@ mindmap
 ```
 
 </div>
+
 
 <br/>
 
