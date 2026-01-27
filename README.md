@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=200&section=header&text=Ahmad%20Parizaad&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=500&color=gradient&text=Mohammad%20Ahmad&animation=fadeIn&textBg=false&fontColor=08d8b8" />
 
 <h3>Full Stack Developer | AI Enthusiast | Building the Future</h3>
 
@@ -8,16 +8,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmadparizaad/">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" />
+    <img src="https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000" />
   </a>
   <a href="https://x.com/ahmadparizaad">
-    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx.png" />
+    <img src="https://img.icons8.com/?size=50&id=yoQabS8l0qpr&format=png&color=000000" />
   </a>
   <a href="mailto:mohammadahmad7003@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" />
+    <img src="https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png&color=000000" />
   </a>
   <a href="https://drive.google.com/file/d/14E_RBXqd9N4t7HGAxLgPfknvtuKwoxGG/view">
-    <img src="https://img.icons8.com/ios-filled/50/34A853/google-drive.png" />
+    <img src="https://img.icons8.com/?size=50&id=VLr4hUR8iMGF&format=png&color=000000" />
   </a>
 </p>
 
