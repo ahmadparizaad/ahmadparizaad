@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=200&section=header&text=Ahmad%20Parizaad&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
-<h3>Full Stack Developer | Blockchain Enthusiast | Building the Future</h3>
+<h3>Full Stack Developer | AI Enthusiast | Building the Future</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Blockchain+%26+Web3+Developer;NextJS+%26+React+Specialist;Open+Source+Contributor" alt="Typing SVG" />
 
@@ -32,11 +32,11 @@
 ```typescript
 const ahmad = {
     location: "🌍 Working Remotely",
-    company: "NapFT",
+    company: "Varlyq",
     role: "Full Stack Developer",
-    focus: ["Next.js", "React", "Blockchain", "Web3"],
+    focus: ["AI Agents", "Automation Solutions", "Web3"],
     openTo: ["Collaboration", "Freelance", "Open Source"],
-    passion: "Building innovative web experiences",
+    passion: "Building innovative solutions",
     lifePhilosophy: "Code • Learn • Repeat"
 };
 ```
@@ -47,10 +47,10 @@ const ahmad = {
 <summary>📊 <b>More About Me (Click to expand)</b></summary>
 <br>
 
-- 🔭 Currently building innovative solutions at **[NapFT](https://www.napft.com)**
-- 🌱 Deep diving into **Next.js**, **Web3**, and **Smart Contracts**
+- 🔭 Currently building innovative solutions at **[Varlyq](https://www.varlyq.com)**
+- 🌱 Deep diving into **AI Agents**, **Agentic AI**, and **Automation solutions**
 - 👯 Open to collaborating on cutting-edge tech projects
-- 💬 Ask me about **React**, **Next.js**, **Node.js**, **Blockchain**, **MongoDB**
+- 💬 Ask me about **React**, **Next.js**, **Node.js**, **AI**
 - ⚡ Fun fact: I turn ideas into reality through code!
 
 </details>
@@ -76,6 +76,7 @@ const ahmad = {
 <p>
   <img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Blockchain" />
   <img height="48" width="48" src="https://cdn.simpleicons.org/ethereum/497493" alt="Ethereum" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/hardhat/497493" alt="Hardhat" />
   <img height="48" width="48" src="https://cdn.simpleicons.org/ethers/7f7f7f" alt="Ethers.js" />
 </p>
 
