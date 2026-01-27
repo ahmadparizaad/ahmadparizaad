@@ -126,7 +126,8 @@ const ahmad = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ahmadparizaad&theme=algolia&no-frame=true&no-bg=false&margin-w=8&row=2&column=4">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ahmadparizaad&theme=flat&no-frame=true&no-bg=false&margin-w=8&row=2&column=4">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmadparizaad&theme=algolia&no-frame=true&no-bg=false&margin-w=8&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmadparizaad&theme=algolia&no-frame=true&margin-w=8&row=2&column=4&cache_seconds=86400
+" alt="GitHub Trophies" />
 </picture>
 
 </div>
