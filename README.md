@@ -195,11 +195,15 @@ const ahmad = {
   "themeVariables": {
     "background": "#0D1117",
     "primaryColor": "#1f2937",
-    "primaryTextColor": "#fefaf9",
+    "primaryTextColor": "#ffffff",
     "primaryBorderColor": "#00D9FF",
     "lineColor": "#00D9FF",
     "secondaryColor": "#111827",
-    "tertiaryColor": "#020617"
+    "secondaryTextColor": "#ffffff",
+    "tertiaryColor": "#020617",
+    "tertiaryTextColor": "#ffffff",
+    "nodeTextColor": "#ffffff",
+    "clusterTextColor": "#ffffff"
   }
 }}%%
 mindmap
