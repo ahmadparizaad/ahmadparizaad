@@ -195,7 +195,7 @@ const ahmad = {
   "themeVariables": {
     "background": "#0D1117",
     "primaryColor": "#1f2937",
-    "primaryTextColor": "#e5e7eb",
+    "primaryTextColor": "#fefaf9",
     "primaryBorderColor": "#00D9FF",
     "lineColor": "#00D9FF",
     "secondaryColor": "#111827",
