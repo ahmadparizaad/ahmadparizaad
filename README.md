@@ -32,11 +32,11 @@
 ```typescript
 const ahmad = {
     location: "🌍 Working Remotely",
-    company: "NapFT",
+    company: "Varlyq",
     role: "Full Stack Developer",
-    focus: ["Next.js", "React", "Blockchain", "Web3"],
+    focus: ["Next.js", "React", "Node", "Web3"],
     openTo: ["Collaboration", "Freelance", "Open Source"],
-    passion: "Building innovative web experiences",
+    passion: "Building innovative solutions",
     lifePhilosophy: "Code • Learn • Repeat"
 };
 ```
@@ -47,10 +47,10 @@ const ahmad = {
 <summary>📊 <b>More About Me (Click to expand)</b></summary>
 <br>
 
-- 🔭 Currently building innovative solutions at **[NapFT](https://www.napft.com)**
-- 🌱 Deep diving into **Next.js**, **Web3**, and **Smart Contracts**
+- 🔭 Currently building innovative solutions at **[Varlyq](https://www.varlyq.com)**
+- 🌱 Deep diving into **Agentic AI**, **Web3**, and **Business Solutions**
 - 👯 Open to collaborating on cutting-edge tech projects
-- 💬 Ask me about **React**, **Next.js**, **Node.js**, **Blockchain**, **MongoDB**
+- 💬 Ask me about **React**, **Next.js**, **Node.js**, **AI**, **Blockhain**
 - ⚡ Fun fact: I turn ideas into reality through code!
 
 </details>
