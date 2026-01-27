@@ -74,7 +74,7 @@ const ahmad = {
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/ethereum/497493" alt="Ethereum" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/ethereum/497493" alt="Ethereum" />
   <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" />
   <img height="48" width="48" src="https://cdn.simpleicons.org/ethers/7f7f7f" alt="Ethers.js" />
 </p>
