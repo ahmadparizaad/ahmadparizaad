@@ -194,16 +194,11 @@ const ahmad = {
   "theme": "dark",
   "themeVariables": {
     "background": "#0D1117",
-    "primaryColor": "#1f2937",
-    "primaryTextColor": "#ffffff",
+    "primaryColor": "#94a3b8",
+    "secondaryColor": "#cbd5e1",
+    "tertiaryColor": "#e2e8f0",
     "primaryBorderColor": "#00D9FF",
-    "lineColor": "#00D9FF",
-    "secondaryColor": "#111827",
-    "secondaryTextColor": "#ffffff",
-    "tertiaryColor": "#020617",
-    "tertiaryTextColor": "#ffffff",
-    "nodeTextColor": "#ffffff",
-    "clusterTextColor": "#ffffff"
+    "lineColor": "#00D9FF"
   }
 }}%%
 mindmap
