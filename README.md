@@ -1,107 +1,187 @@
-# Optimized GitHub Profile
+<div align="center">
 
-## Dark Theme Support
-This profile supports a dark theme for better visibility and aesthetics.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=200&section=header&text=Ahmad%20Parizaad&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
-## GitHub Achievements Trophy Display
-![GitHub Achievements](https://github-readme-stats.vercel.app/api/trophy?username=ahmadparizaad&row=2&column=4&theme=flat)
+<h3>Full Stack Developer | Blockchain Enthusiast | Building the Future</h3>
 
-## Animated Header
-![Header Waves](https://media.giphy.com/media/XGiQm3jMKkncSbMpgH/giphy.gif)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Blockchain+%26+Web3+Developer;NextJS+%26+React+Specialist;Open+Source+Contributor" alt="Typing SVG" />
 
-## Typing Animation
-```javascript
-const typingEffect = () => {
-  const text = 'Hello, I am Ahmad!';
-  let index = 0;
-  const interval = setInterval(() => {
-    if (index < text.length) {
-      process.stdout.write(text.charAt(index));
-      index++;
-    } else {
-      clearInterval(interval);
-    }
-  }, 100);
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmadparizaad/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/ahmadparizaad">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:mohammadahmad7003@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/14E_RBXqd9N4t7HGAxLgPfknvtuKwoxGG/view">
+    <img src="https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=ahmadparizaad&color=00D9FF&style=flat-square&label=Profile+Views" />
+
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+```typescript
+const ahmad = {
+    location: "🌍 Working Remotely",
+    company: "NapFT",
+    role: "Full Stack Developer",
+    focus: ["Next.js", "React", "Blockchain", "Web3"],
+    openTo: ["Collaboration", "Freelance", "Open Source"],
+    passion: "Building innovative web experiences",
+    lifePhilosophy: "Code • Learn • Repeat"
 };
-typingEffect();
 ```
 
-## Social Links
-- [LinkedIn](https://www.linkedin.com/in/ahmadparizaad/)
-- [Twitter](https://x.com/ahmadparizaad)
-- [Email Me](mailto:mohammadahmad7003@gmail.com)
-- [Resume](https://drive.google.com/file/d/14E_RBXqd9N4t7HGAxLgPfknvtuKwoxGG/view)
-
-## About Me
-I work at NapFT, focusing on web and blockchain technologies.
+<br/>
 
 <details>
-<summary>More Details</summary>
+<summary>📊 <b>More About Me (Click to expand)</b></summary>
+<br>
 
-### Tech Stack
-#### Frontend
-- ![HTML](https://skillicons.dev/icons?i=html&theme=dark) 
-- ![CSS](https://skillicons.dev/icons?i=css&theme=dark) 
-- ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark) 
-- ![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark) 
-- ![React](https://skillicons.dev/icons?i=react&theme=dark) 
-- ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark) 
-- ![Redux](https://skillicons.dev/icons?i=redux&theme=dark) 
-- ![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark) 
-- ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark) 
+- 🔭 Currently building innovative solutions at **[NapFT](https://www.napft.com)**
+- 🌱 Deep diving into **Next.js**, **Web3**, and **Smart Contracts**
+- 👯 Open to collaborating on cutting-edge tech projects
+- 💬 Ask me about **React**, **Next.js**, **Node.js**, **Blockchain**, **MongoDB**
+- ⚡ Fun fact: I turn ideas into reality through code!
 
-#### Backend
-- ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark) 
-- ![Express](https://skillicons.dev/icons?i=express&theme=dark) 
-- ![PHP](https://skillicons.dev/icons?i=php&theme=dark) 
-- ![Python](https://skillicons.dev/icons?i=python&theme=dark) 
+</details>
 
-#### Database
-- ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) 
-- ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) 
-- ![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=dark) 
-- ![Redis](https://skillicons.dev/icons?i=redis&theme=dark) 
-- ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark) 
+<br/>
 
-#### Blockchain
-- ![Solidity](https://skillicons.dev/icons?i=solidity&theme=dark) 
-- ![Ethereum](https://skillicons.dev/icons?i=ethereum&theme=dark) 
+## 💻 Tech Stack
 
-#### Tools
-- ![Git](https://skillicons.dev/icons?i=git&theme=dark) 
-- ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) 
-- ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark) 
-- ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) 
-- ![Postman](https://skillicons.dev/icons?i=postman&theme=dark) 
-- ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) 
-- ![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark) 
-- ![Netlify](https://skillicons.dev/icons?i=netlify&theme=dark) 
+<div align="center">
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadparizaad&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&theme=dark" alt="Frontend" />
+</p>
 
-## Top Languages Card
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadparizaad&layout=compact&theme=github_dark)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python&theme=dark" alt="Backend" />
+</p>
 
-## Streak Stats
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmadparizaad&theme=github-dark-blue)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase&theme=dark" alt="Database" />
+</p>
 
-## GitHub Profile Trophy
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ahmadparizaad&theme=algolia&row=2&column=4)
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Blockchain" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/ethereum/497493" alt="Ethereum" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/ethers/7f7f7f" alt="Ethers.js" />
+</p>
 
-## Contribution Activity Graph
-![Contribution Activity](https://github-contribution-stats.vercel.app/api/?username=ahmadparizaad&theme=github-compact)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux,vercel,netlify&theme=dark" alt="Tools" />
+</p>
 
-## Snake Animation
-![Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+</div>
 
-## Dev Quotes
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br/>
 
-## Current Focus Areas
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ahmadparizaad&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ahmadparizaad&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmadparizaad&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub Stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadparizaad&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadparizaad&layout=compact&langs_count=8&theme=default&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadparizaad&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" alt="Top Languages" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ahmadparizaad&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ahmadparizaad&theme=default&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadparizaad&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 GitHub Achievements
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ahmadparizaad&theme=algolia&no-frame=true&no-bg=false&margin-w=8&row=2&column=4">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ahmadparizaad&theme=flat&no-frame=true&no-bg=false&margin-w=8&row=2&column=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmadparizaad&theme=algolia&no-frame=true&no-bg=false&margin-w=8&row=2&column=4" alt="GitHub Trophies" />
+</picture>
+
+</div>
+
+<br/>
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ahmadparizaad&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ahmadparizaad&theme=github-light&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadparizaad&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+</picture>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadparizaad/ahmadparizaad/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadparizaad/ahmadparizaad/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmadparizaad/ahmadparizaad/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+<br/>
+
+## 💭 Dev Quote
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</picture>
+
+</div>
+
+<br/>
+
+## 🎯 Current Focus
+
+<div align="center">
+
 ```mermaid
 mindmap
-  root
+  root((Ahmad))
     Web Development
       Next.js
       React
@@ -120,9 +200,20 @@ mindmap
       Community Building
 ```
 
-## Animated Footer
-![Footer Waves](https://media.giphy.com/media/XGiQm3jMKkncSbMpgH/giphy.gif) 
+</div>
 
----
+<br/>
 
-*Thank you for visiting my GitHub profile!*
+<div align="center">
+
+### 💼 Open for Opportunities
+
+I'm always interested in collaborating on innovative projects and exploring new opportunities.
+
+**Let's connect and build something amazing together!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=100&section=footer" />
+
+</div>
